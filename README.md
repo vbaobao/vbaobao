@@ -1,7 +1,9 @@
 ### Hello!
 
 <p>
-  Welcome to my Github profile. My name is Virginia. I am a full-stack software engineer and web developer and looking to enrich my brain with some coding goodness. 
+  Welcome to my Github profile! My name is Virginia. I am a software engineer looking to enrich my brain with some coding goodness.
+
+  I learned full-stack development and I am currently employed as an iOS Engineer.
 </p>
 
 ### Tech Stack
