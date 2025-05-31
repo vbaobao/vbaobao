@@ -1,12 +1,20 @@
 ### Hello!
 
 <p>
-  Welcome to my Github profile! My name is Virginia. I am a software engineer looking to enrich my brain with some coding goodness.
+  My name is Virginia. I am an iOS developer.
 
-  I learned full-stack development and I am currently employed as an iOS Engineer.
+  I started my journey with full-stack development, and I am currently employed as an iOS Engineer.
+
+  I just want to make things that I want to use.
 </p>
 
 ### Tech Stack
+<p>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" />
+  <img alt="ObjectiveC" src="https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white" />
+</p>
+
+#### Rusty
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
