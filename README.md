@@ -12,6 +12,7 @@
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" />
   <img alt="ObjectiveC" src="https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
 #### Rusty
@@ -31,7 +32,6 @@
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
-  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
  </p>
  
  
