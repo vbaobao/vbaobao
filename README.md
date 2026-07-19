@@ -8,14 +8,14 @@
   I just want to make things that I want to use.
 </p>
 
-### Tech Stack
+### Tech Stack - iOS
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" />
   <img alt="ObjectiveC" src="https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-#### Rusty
+#### Rusty - Webdev
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -42,7 +42,3 @@
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
-### Github stats
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vbaobao&count_private=true&show_icons=true&theme=radical)
